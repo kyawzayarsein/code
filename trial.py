@@ -15,7 +15,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # --- SETTINGS ---
 PING_THREADS = 10
 PING_INTERVAL = 0.1 
-SECRET_SALT = "FIXED_SALT_999" 
+SECRET_SALT = "FIXED_SALT_111" 
 LICENSE_FILE = "license.txt"
 
 def get_device_id():
